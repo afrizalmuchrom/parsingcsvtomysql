@@ -29,10 +29,10 @@ def csv_to_mysql(load_sql, host, user, password, db):
 
 # Execution Example
 
-host = '153.92.5.166'
-user = 'data_logger'
-db = 'data_logger'
-password = 'data_logger2018'
+host = 'x'
+user = 'x'
+db = 'x'
+password = 'x'
 
 directory = './pama'
 for filename in os.listdir(directory):
